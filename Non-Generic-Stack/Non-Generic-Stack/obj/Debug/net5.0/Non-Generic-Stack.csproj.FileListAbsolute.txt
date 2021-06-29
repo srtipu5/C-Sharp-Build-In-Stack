@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\bin\Debug\net5.0\Non-Generic-Stack.exe
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\bin\Debug\net5.0\Non-Generic-Stack.deps.json
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\bin\Debug\net5.0\Non-Generic-Stack.runtimeconfig.json
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\bin\Debug\net5.0\Non-Generic-Stack.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\bin\Debug\net5.0\Non-Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\bin\Debug\net5.0\ref\Non-Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\bin\Debug\net5.0\Non-Generic-Stack.pdb
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\ref\Non-Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.pdb
+C:\Users\Tipu\Desktop\Stack\Non-Generic-Stack\Non-Generic-Stack\obj\Debug\net5.0\Non-Generic-Stack.genruntimeconfig.cache

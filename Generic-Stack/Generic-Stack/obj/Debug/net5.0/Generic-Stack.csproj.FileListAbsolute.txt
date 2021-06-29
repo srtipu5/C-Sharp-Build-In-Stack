@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\bin\Debug\net5.0\Generic-Stack.exe
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\bin\Debug\net5.0\Generic-Stack.deps.json
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\bin\Debug\net5.0\Generic-Stack.runtimeconfig.json
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\bin\Debug\net5.0\Generic-Stack.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\bin\Debug\net5.0\Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\bin\Debug\net5.0\ref\Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\bin\Debug\net5.0\Generic-Stack.pdb
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\ref\Generic-Stack.dll
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.pdb
+C:\Users\Tipu\Desktop\Stack\Generic-Stack\Generic-Stack\obj\Debug\net5.0\Generic-Stack.genruntimeconfig.cache
